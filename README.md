@@ -6,3 +6,7 @@
 
 Newbie
 - [FAQ Accordion](https://github.com/hyeonpearl/faq-accordion-main)
+
+## References
+
+[Frontend Mentor](https://www.frontendmentor.io/challenges)
