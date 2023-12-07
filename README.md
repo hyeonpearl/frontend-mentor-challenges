@@ -1,4 +1,4 @@
-# Frontend Eentor Challenges
+# Frontend Mentor Challenges
 
 프론트엔드 연습을 위한 레포지토리입니다.
 
